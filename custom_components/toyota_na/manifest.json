@@ -1,7 +1,7 @@
 {
     "after_dependencies": ["cloud","http"],
     "domain": "toyota_na",
-    "name": "Toyota (North America)",
+    "name": "Toyota/Lexus (North America)",
     "config_flow": true,
     "documentation": "https://github.com/USA-RedDragon/ha_toyota_na",
     "codeowners": ["@USA-RedDragon"],

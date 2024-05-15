@@ -31,7 +31,9 @@ Services:
 ### HACS
 
 1. Install HACS: <https://hacs.xyz/docs/setup/download>
-2. Search and install "Toyota (North America)" in HACS integration store
+2. Using the 3-dot menu in the top right, select "Custom Repositories"
+3. Add `https://github.com/USA-RedDragon/ha-toyota-na` as an Integration
+4. Search and install "Toyota/Lexus (North America)" in HACS integration store
 
 ### Manual installation
 
