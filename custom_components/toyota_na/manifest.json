@@ -7,6 +7,6 @@
     "codeowners": ["@USA-RedDragon"],
     "requirements": [],
     "issue_tracker": "https://github.com/USA-RedDragon/ha-toyota-na/issues",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "iot_class": "cloud_polling"
 }
