@@ -4,7 +4,7 @@
 This is a Home Assistant integration for Toyota North America.
 
 ## Stable
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/widewing/ha-toyota-na?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/widewing/ha-toyota-na?style=for-the-badge) ![GitHub Releases](https://img.shields.io/github/downloads/widewing/ha-toyota-na/latest/total?color=purple&label=%20release%20Downloads&style=for-the-badge) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/USA-RedDragon/ha-toyota-na?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/USA-RedDragon/ha-toyota-na?style=for-the-badge) ![GitHub Releases](https://img.shields.io/github/downloads/USA-RedDragon/ha-toyota-na/latest/total?color=purple&label=%20release%20Downloads&style=for-the-badge)
 
 ## Current features
 Sensors:
@@ -29,8 +29,8 @@ Services:
 
 ### Manual installation:
 1. Download this repo by either of the following method
-- `git clone https://github.com/widewing/ha-toyota-na`
-- Download https://github.com/widewing/ha-toyota-na/archive/refs/heads/master.zip
+- `git clone https://github.com/USA-RedDragon/ha-toyota-na`
+- Download https://github.com/USA-RedDragon/ha-toyota-na/archive/refs/heads/main.zip
 2. Copy or link this repo into Home Assistant "custome_components" directory
 - `ln -s ha-toyota-na/custom_components/toyota_na ~/.homeassistant/custom_components/`
 
