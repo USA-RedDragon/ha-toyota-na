@@ -3,8 +3,8 @@ import logging
 from homeassistant import config_entries
 import voluptuous as vol
 
-from toyota_na import ToyotaOneAuth, ToyotaOneClient
-from toyota_na.exceptions import AuthError
+from .toyota_na import ToyotaOneAuth, ToyotaOneClient
+from .toyota_na.exceptions import AuthError
 
 # Patch auth code
 from .patch_auth import authorize, login

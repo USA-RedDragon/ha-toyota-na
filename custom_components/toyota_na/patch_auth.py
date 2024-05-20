@@ -4,8 +4,8 @@ import logging
 import aiohttp
 from urllib.parse import urlparse, parse_qs, urlencode
 
-from toyota_na import ToyotaOneAuth
-from toyota_na.exceptions import LoginError
+from .toyota_na import ToyotaOneAuth
+from .toyota_na.exceptions import LoginError
 
 
 async def authorize(self, username, password, otp=None):

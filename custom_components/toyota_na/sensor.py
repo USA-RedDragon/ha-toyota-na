@@ -1,7 +1,7 @@
 from typing import Any, Union, cast
 
-from toyota_na.vehicle.base_vehicle import ToyotaVehicle, VehicleFeatures
-from toyota_na.vehicle.entity_types.ToyotaNumeric import ToyotaNumeric
+from .toyota_na.vehicle.base_vehicle import ToyotaVehicle, VehicleFeatures
+from .toyota_na.vehicle.entity_types.ToyotaNumeric import ToyotaNumeric
 
 from homeassistant.components.sensor import SensorStateClass
 from homeassistant.config_entries import ConfigEntry

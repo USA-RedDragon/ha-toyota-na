@@ -2,8 +2,8 @@
 import logging
 from typing import Any, cast
 
-from toyota_na.vehicle.base_vehicle import ToyotaVehicle, VehicleFeatures
-from toyota_na.vehicle.entity_types.ToyotaLocation import ToyotaLocation
+from .toyota_na.vehicle.base_vehicle import ToyotaVehicle, VehicleFeatures
+from .toyota_na.vehicle.entity_types.ToyotaLocation import ToyotaLocation
 
 from homeassistant.components.device_tracker import SourceType
 from homeassistant.components.device_tracker.config_entry import TrackerEntity
